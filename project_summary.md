@@ -20,10 +20,10 @@ Most of the works are made using [Box2dWeb](https://code.google.com/p/box2dweb/)
 In the first piece, you can grab the interface of the blue blob and the surrounding green fill and drag it around. Press ? to see the underlying skeleton.
 
 ## Link to Prototype
-- Web version: [winkervsbecks.github.io/ellsworthKellyAnimated](http://winkervsbecks.github.io/ellsworthKellyAnimated/ "winkervsbecks.github.io/ellsworthKellyAnimated")
-- Google Chrome App: [chrome.google.com/webstore/detail/ellsworth-kelly-animated/mhgohnogimfoohafafblgpgonabjhlal](https://chrome.google.com/webstore/detail/ellsworth-kelly-animated/mhgohnogimfoohafafblgpgonabjhlal)
+The project is available on the web at: [winkervsbecks.github.io/ellsworthKellyAnimated](http://winkervsbecks.github.io/ellsworthKellyAnimated/ "winkervsbecks.github.io/ellsworthKellyAnimated") and can also be downloaded as a Google Chrome App: [chrome.google.com/webstore/detail/ellsworth-kelly-animated/mhgohnogimfoohafafblgpgonabjhlal](https://chrome.google.com/webstore/detail/ellsworth-kelly-animated/mhgohnogimfoohafafblgpgonabjhlal)
 
 ## Example Code
+An example of how the impluse is provided to the particles in order to animate the shapes
 ```
 SpringyTriangle.prototype.impulse = function () {
 	var ping = Math.random(-1,1);
