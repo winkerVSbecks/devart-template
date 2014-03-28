@@ -1,4 +1,5 @@
-# Ellsworth Kelly Animated
+# Project Title
+Ellsworth Kelly Animated
 
 ## Authors
 Varun Vachhar
