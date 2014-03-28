@@ -1,6 +1,7 @@
 # Ellsworth Kelly Animated
 
-## Varun Vachhar
+## Authors
+Varun Vachhar
 - [github.com/winkerVSbecks](https://github.com/winkerVSbecks)
 - [@winkerVSbecks](https://twitter.com/winkerVSbecks)
 - [lambdafunction.ca](http://lambdafunction.ca/)
