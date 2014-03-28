@@ -6,6 +6,6 @@ This rope is provided with a slight amount of tension. This tension is then reli
 
 ![rope interface](../project_images/ropeinterface.gif)
 
-The viewer can also grab the interface of the green-blue area and give it momentum. 
+The user can also grab the interface of the green-blue area and give it momentum. 
 
 ![rope interface](../project_images/ropedrag.gif)
