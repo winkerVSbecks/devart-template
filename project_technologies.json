@@ -2,13 +2,13 @@
   "technologies": {
     "apis": [],
     "platforms": [
-      "javascript",
-      "Box2dWeb",
-      "Canvas",
+      "Web",
       "Chrome Apps"
     ],
     "toolkits": [
-      "insert toolkits"
+      "Javascript",
+      "Canvas",
+      "Box2dWeb"
     ]
   },
   "themes": [
