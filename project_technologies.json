@@ -1,0 +1,20 @@
+{
+  "technologies": {
+    "apis": [],
+    "platforms": [
+      "javascript",
+      "Box2dWeb",
+      "Canvas",
+      "Chrome Apps"
+    ],
+    "toolkits": [
+      "insert toolkits"
+    ]
+  },
+  "themes": [
+    "ellsworth kelly",
+    "animation",
+    "generative",
+    "physics"
+  ]
+}
